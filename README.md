@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **bishwajit925@gmail.com**
+- 📫 How to reach me **das15-6341@s.diu.edu.bd**
 - ⚡ Fun fact **I am funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
