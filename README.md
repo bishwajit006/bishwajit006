@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Own Portfolio**
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **Machine Learning(ML)**
 
 - 💬 Ask me about **C++**
 
